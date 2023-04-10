@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>time</id>
+    <version>1.0.0</version>
+    <authors>time</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+  </metadata>
+  <files>
+    <file src="C:\Users\laure\Desktop\CLI_App\time\obj\DotnetToolSettings.xml" target="tools\net6.0\any\DotnetToolSettings.xml" />
+    <file src="C:\Users\laure\Desktop\CLI_App\time\bin\Debug\net6.0\publish\time.dll" target="tools\net6.0\any\time.dll" />
+    <file src="C:\Users\laure\Desktop\CLI_App\time\bin\Debug\net6.0\publish\time.deps.json" target="tools\net6.0\any\time.deps.json" />
+    <file src="C:\Users\laure\Desktop\CLI_App\time\bin\Debug\net6.0\publish\time.runtimeconfig.json" target="tools\net6.0\any\time.runtimeconfig.json" />
+    <file src="C:\Users\laure\Desktop\CLI_App\time\bin\Debug\net6.0\publish\time.pdb" target="tools\net6.0\any\time.pdb" />
+    <file src="C:\Users\laure\Desktop\CLI_App\time\bin\Debug\net6.0\publish\Newtonsoft.Json.dll" target="tools\net6.0\any\Newtonsoft.Json.dll" />
+  </files>
+</package>

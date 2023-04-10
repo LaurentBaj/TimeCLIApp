@@ -1,0 +1,6 @@
+C:\Users\laure\Desktop\CLI_App\time\bin\Debug\net6.0\publish\time.exe
+C:\Users\laure\Desktop\CLI_App\time\bin\Debug\net6.0\publish\time.dll
+C:\Users\laure\Desktop\CLI_App\time\bin\Debug\net6.0\publish\time.deps.json
+C:\Users\laure\Desktop\CLI_App\time\bin\Debug\net6.0\publish\time.runtimeconfig.json
+C:\Users\laure\Desktop\CLI_App\time\bin\Debug\net6.0\publish\time.pdb
+C:\Users\laure\Desktop\CLI_App\time\bin\Debug\net6.0\publish\Newtonsoft.Json.dll
